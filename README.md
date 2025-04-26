@@ -1,26 +1,11 @@
-# COMM4190 Spring 2025 - Research Project
+# Description and Overview of Research Paper
+## Social Information Processing Theory and Human-LLM Communication
 
-* Use this repository for your Research Project
+This research project examines how **Social Information Processing (SIP)**, originally developed by Walther (1992) to explain human relational behavior in computer-mediated communication, can effectively illuminate and explain human interactions with Large Language Models (LLMs), such as ChatGPT, Replika, and Woebot. SIP theory suggests that meaningful social relationships and intimacy can be developed through purely text-based interactions, even in the absence of nonverbal cues typically available in face-to-face communication.
 
+The core aim of this theoretical exploration is to analyze how SIP theory concepts—such as impression formation, anthropomorphism, trust building, and hyperpersonal communication—can elucidate the nuanced dynamics observed in human communication with generative AI. Specifically, the project explores how users form social impressions of AI conversational agents, attributing human-like qualities (anthropomorphism) to these digital entities, and how sustained interaction can lead to deep relational trust and emotional engagement. The concept of hyperpersonal communication, a core extension of SIP theory by Walther (1996), is particularly emphasized, highlighting how interactions with consistently supportive, responsive, and emotionally tailored AI can lead to intensified relational connections that may even surpass traditional human-human interactions.
 
-### Overview
+The analysis includes discussion of empirical examples drawn from prominent AI applications, including the companionship chatbot Replika, therapeutic chatbot Woebot, and collaborative AI systems such as ChatGPT. Through examining these examples, the project addresses both the beneficial implications (e.g., therapeutic support, social companionship, productivity) and critical ethical considerations (e.g., emotional dependency, over-trust, misinformation) associated with human-LLM interactions.
 
-* The focus of this project is to either:
-  1. Select a theoretical communication framework (e.g. Accomodation Theory) developed to explain human communication behavior and explore its implications for communicating with (in both senses) an LLM.
-  2. Examine a specific communicative context or example (e.g. political debate, interaction between customer and service representive, a messaging campaign in health communication, etc.) and explore whether and how LLMs might be used and the associated implications.
- 
-     
-* Write a paper/report in Markdown using Zotero citations.
-
-
-### Method
-
-* Add notebooks, Markdown files, your BibTex bibliography file, PDFs, images etc. to the repo related to your project.
-* The report should be in a Notebook and use the citation extension of JupyterLab to add citations.
-* You can render the Notebook to PDF using "Save and Export as" function in JupyterLab.
-* You make have additional notebooks or other files to show your empirical LLM work.
-
----
-
-### DELETE THE ABOVE CONTENT AND USE THIS FILE TO PROVIDE A DESCRIPTION AND OVERVIEW OF YOUR PROJECT
+Ultimately, this research project contributes to the evolving understanding of human communication with AI technologies, suggesting future research avenues for further exploration, particularly around balancing the benefits and potential pitfalls of hyper-personalized, anthropomorphic AI interactions.
 
